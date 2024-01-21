@@ -1,0 +1,73 @@
+
+body{
+    text-align: center;
+    justify-content: center;
+    margin-top: 8%;
+    background-color: rgb(228, 227, 210);
+}
+
+
+.main-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.main-div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green{
+    background-color: rgb(131, 207, 240);
+    height: 100px;
+    width: 100px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.violet{
+    background-color: rgb(117, 97, 155);
+    height: 100px;
+    width: 100px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.yellow{
+    background-color: rgb(181, 162, 117);
+    height: 100px;
+    width: 100px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.pink{
+    background-color: rgb(193, 148, 178);
+    height: 100px;
+    width: 100px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.last {
+    font-family: cursive;
+    text-align: end;
+    justify-content: end;
+    
+
+}
+
+.Flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
